@@ -168,7 +168,7 @@ body {
 }
 
 .subsection-4 {
-    width: 400px;
+    max-width: 600px;
     height: 100px;
     display:flex;
     color:#e5e7eb;
