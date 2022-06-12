@@ -4,4 +4,6 @@ Practice exercise from the Odin Project. Goal was to recreate web page found her
 
 "https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png"
 
-as well as possible. Images for 
+as well as possible. 
+
+Images for webpage at time of work are saved in the example folder.
